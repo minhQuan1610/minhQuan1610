@@ -14,10 +14,8 @@
 - 🚀 Constantly exploring new technologies, frameworks, and development trends.
 - 🧩 Fascinated by clean architecture, microservices, and scalable system design.
 - 🛠️ Dedicated to optimizing both frontend interactions and backend logic for better performance.
-- 💡  Enjoy turning complex problems into elegant, maintainable solutions.
 - 🤝 Love collaborating in tech communities and building projects that make a real-world impact.
 - 🎯 Currently sharpening my skills in **React**, **Spring Boot**, and **Cloud platforms**.
-- 📚 Always learning — because tech never stops evolving.
 
 
 ---
@@ -28,7 +26,7 @@
   <a href="https://www.facebook.com/nguyen.minh.quan.354647/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
-  <a href="mailto:ngminhquan161004@gmail.com" target="_blank" rel="noopener noreferrer">
+   <a href="mailto:ngminhquan161004@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
 </div>
