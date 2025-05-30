@@ -24,9 +24,15 @@
 
 ## 📬 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-profile)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/your-profile)  
-📫 **Email:** ngminhquan161004@gmail.com
+<div style="display: flex; justify-content: space-between; width: 300px;">
+  <a href="https://www.facebook.com/nguyen.minh.quan.354647/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+  <a href="mailto:ngminhquan161004@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+</div>
+
 
 ---
 
