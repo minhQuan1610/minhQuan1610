@@ -9,11 +9,16 @@
 
 ## 🌟 About Me
 
-- 🎓 I’m currently studying a bachelor's degree in Computer Science at **VNUHCM - HCMUT**.
-- 🛠️ Passionate about web development and building clean, maintainable systems.
-- ✨ Always eager to learn and experiment with new technologies.
-- 🧠 Exploring various architecture styles and how to apply them in real-world applications.
-- 🔍 Enjoy solving problems and improving both frontend and backend performance.
+- 🎓 Pursuing a Bachelor's degree in Computer Science at **VNUHCM - HCMUT**.
+- 🌐 Enthusiastic about crafting seamless, full-stack web experiences.
+- 🚀 Constantly exploring new technologies, frameworks, and development trends.
+- 🧩 Fascinated by clean architecture, microservices, and scalable system design.
+- 🛠️ Dedicated to optimizing both frontend interactions and backend logic for better performance.
+- 💡  Enjoy turning complex problems into elegant, maintainable solutions.
+- 🤝 Love collaborating in tech communities and building projects that make a real-world impact.
+- 🎯 Currently sharpening my skills in **React**, **Spring Boot**, and **Cloud platforms**.
+- 📚 Always learning — because tech never stops evolving.
+
 
 ---
 
