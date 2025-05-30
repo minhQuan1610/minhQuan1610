@@ -47,15 +47,16 @@
 ---
 
 
-### 🗄️ Database, ☁️ Cloud & 🧰 Tools
+### 🗄️ Database & 🧰 Tools
 
-| Databases       | Cloud       | Tools             |
-| --------------- | ----------- | ----------------- |
-| 🐬 MySQL        | ☁️ Firebase | 🧪 Postman        |
-| 🟢 MongoDB      |             | 🔧 Git & GitHub   |
-| 🟥 MSSQL Server |             | 🎨 Figma          |
-|                 |             | 🐳 Docker (basic) |
+<div align="center">
 
----
+| **Database**                                                                                   | **Tools**                                                                                          |
+|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)    | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)   |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) |
+| ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)         |
 
-Thanks for visiting! ⭐ Feel free to connect!
+</div>
+
+
