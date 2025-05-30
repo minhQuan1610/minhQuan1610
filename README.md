@@ -21,8 +21,8 @@
 ---
 
 ## 📬 How to reach me
-
-<div style="display: flex; justify-content: space-between; width: 300px;">
+  
+<div style="display: flex; justify-content: space-between; width: 300px;" align="center">
   <a href="https://www.facebook.com/nguyen.minh.quan.354647/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
@@ -30,7 +30,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
 </div>
-
 
 ---
 
