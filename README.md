@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Minh-Quan Nguyen
 
-## 💻 Full-Stack Developer
+<h2 align="center">💻 Full-Stack Developer</h2>
 
-Curious developer. Always learning. Always building.
+<p align="center"><i>"The more I learn, the more I realize how much I don’t know." — Albert Einstein</i></p>
+
 
 ---
 
