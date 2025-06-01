@@ -15,7 +15,7 @@
 - 🧩 Fascinated by clean architecture, microservices, and scalable system design.
 - 🛠️ Dedicated to optimizing both frontend interactions and backend logic for better performance.
 - 🤝 Love collaborating in tech communities and building projects that make a real-world impact.
-- 🎯 Currently sharpening my skills in **React**, **Spring Boot**, and **Cloud platforms**.
+- 🎯 Currently sharpening my skills in **React**, **Spring Boot**.
 
 
 ---
