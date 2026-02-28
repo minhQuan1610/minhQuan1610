@@ -51,16 +51,7 @@
 
 ---
 
-## 📊 GitHub Statistics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhQuan1610&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhQuan1610&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🐍 Contribution Snake  
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/minhQuan1610/minhQuan1610/output/github-contribution-grid-snake.svg" />
