@@ -21,15 +21,10 @@
 
 ### 🧠 Core Technologies  
 
-### 🧠 Core Technologies  
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="28" style="vertical-align: middle;"/>
-  <span style="font-size:16px; font-weight:600; vertical-align: middle;"> Java</span>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](#)
 
 ---
 
