@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Minh-Quan Nguyen
 
-<h2 align="center">💻 Full-Stack Developer</h2>
-
-<p align="center"><i>"The more I learn, the more I realize how much I don’t know." — Albert Einstein</i></p>
+<h2 align="center">🚀 Back-end Developer</h2> <p align="center"><i>"The more I learn, the more I realize how much I don’t know." — Albert Einstein</i></p>
 
 
 ---
